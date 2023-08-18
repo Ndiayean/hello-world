@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My first repository, which now contains added text for my first commit.
